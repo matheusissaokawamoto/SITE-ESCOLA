@@ -1,0 +1,12 @@
+body {background-color: rgb(131, 7, 248);
+    #383D58
+}
+.bolachacomsuco {background-color: cyan;}
+.bolachacomsuco{color: rgb(0, 0, 0);}
+.bolacha {background-color: darkgreen;}
+
+li {color: rgb(0, 0, 0);}
+.bolachacomsuco{text-align: center;}
+img {width: 50%; height:50% ;}
+img {margin-left: 350px;}
+.bolachacomsuco {display: flex;} 
