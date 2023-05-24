@@ -25,7 +25,26 @@ padding:24px 0;
     
 }
 .estudante-imagem{
-    width: 200%;
+    width: 20%;
+}
+
+
+.estudante-icone{
+    width: 10%;
+}
+
+.estudante-div{
+    text-align:center;
+    
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns:20% 20% 20% 20% 20%;
+    background-image: linear-gradient(rgb(15, 223, 223), rgb(255,255,255))
+}
+.estudante-titulo{
+    text-align: center;
 }
 
 
